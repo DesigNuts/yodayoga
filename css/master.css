@@ -1,0 +1,202 @@
+body
+    {font-family: 'Playfair Display', serif;
+    }
+
+h1
+    {font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-align: center;
+    padding-top: 50px;
+    }
+
+.wrapper
+    {width: 70%;
+    text-align: center;
+    margin: auto
+    }
+
+#Header
+    {background-color: #343434;
+    width: 100%;
+    display: flex
+    }
+
+li
+    {font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+    display: inline;
+    padding-left: 5px;
+    }
+
+#Menu
+    {padding-top: 35px;
+    padding-left: 10px;
+    font-size: 12px;
+    width: 60%;
+    text-align: center
+    }
+
+#Logo
+{width: 20%;
+    text-align: center;
+    }
+
+#Logo img
+    {width: 150px
+    }
+
+#HeaderSocial
+    {padding-right: 25px;
+    padding-top: 30px;
+    width: 20%;
+    text-align: right
+    }
+
+.SocialIcon
+    {height: 22px;
+    }
+
+#About
+    {background-image: url("../images/AboutYoda.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    padding: 10px;
+    }
+
+#About h1 
+    {color: white;
+    padding-bottom: 300px
+    }
+
+#About p
+    {color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-size: 16px;
+    line-height: normal
+    }
+
+#Retreats 
+    {background-color: white;
+    color: #343434;
+    padding-bottom: 60px
+    }
+
+#Retreats h1
+    {padding-bottom: 80px;
+    color: #829f31
+    }
+
+.RetreatsFormatting
+    {display: flex;
+    padding-bottom: 20px;
+    }
+
+#Retreats p
+    {font-size: 18px;
+    padding-left: 20px;
+    text-align: left;
+    line-height: normal;
+    }
+
+#Testimonials
+    {background-color: #829f31;
+    color: white
+    }
+
+#Testimonials h1
+    {padding-bottom: 80px
+    }
+
+.TestimonialsFormatting
+    {display: flex;
+    padding-bottom: 80px
+    }
+
+#Testimonials p
+    {font-style: italic;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 40px;
+    text-align:center;
+    line-height: normal
+    }
+
+.Headshot
+    {border-radius: 50%;
+    width: 100px;
+    }
+
+#Studio
+    {background-color: white;
+    }
+
+#Studio h1
+    {padding-bottom: 80px;
+    color: #829f31
+    }
+
+#YogaPhotos
+    {width: auto;
+    padding-bottom: 20px;
+    }
+
+#Contact
+    {background-color: #A03141;
+    
+    }
+
+#Contact h1
+    {color: white;
+    padding-bottom: 80px
+    }
+
+#Contact p
+    {color: white
+    }
+
+#ContactInternal
+    {display: flex;
+    justify-content: center;
+    }
+
+#Address
+    {font-size: 20px;
+    padding-right: 30px;
+    padding-top: 130px;
+    line-height: normal
+    }
+
+#Map
+    {padding-left: 30px;
+    padding-bottom: 120px
+    }
+#Message
+    {background-color: #829f31
+    }
+
+#Message h1
+    {color: white;
+    padding-bottom: 50px       
+    }
+
+#Footer 
+    {background-color: #343434;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    }
+
+#FooterSocial
+{padding-top: 10px
+}
+
+#Footer p
+{padding-bottom: 20px
+}
